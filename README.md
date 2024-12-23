@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **Flutter**
 
+- 📝 I started to write articles on [https://medium.com/@alperenkildir98](https://medium.com/@alperenkildir98)
+
 - 📫 How to reach me **alperenkildir98@gmail.com**
 
 - 😄 Pronouns: He/Him
